@@ -34,4 +34,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![antramir's 42 stats](https://badge.mediaplus.ma/black/antramir?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
