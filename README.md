@@ -17,6 +17,11 @@ My name is Antonio and I'm currently 📚Studying Software Development at 42 Má
 <br>
 <br>
 
+<p align="center"> <b> COURSES COMPLETED </b> <br />
+Programación con Java Standard, from Fundación Telefónica <br /></p>
+<p align="center"> <a href="https://www.java.com/es/"><img src="https://skillicons.dev/icons?i=java" alt="Java-Dark" /></a></p>
+<p align="center"> Introducción a la programación con Python 3, from UNED <br /></p>
+<p align="center"> <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python logo" /></a></p>
 
 
 <!--
