@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Antonio and I'm currently 📚Studying Software Development at 42 Málaga.
+My name is Antonio and I'm currently 📚Studying Software Development at 42 Málaga and Computer Engineering at UNED.
 
 <p align="center"> <b> WHIT SKILLS IN </b> <br />
 <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" alt="Bash logo" /></a>
