@@ -13,6 +13,8 @@ My name is Antonio and I'm currently 📚Studying Software Development at 42 Má
 <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" alt="VSCode logo" /></a>
 </p>
 </p>
+<p align="center"> <b> Stats at Codewars.com </b> <br />
+<p align="center"><img src="https://www.codewars.com/users/Pesetas/badges/large">
 
 <br>
 <br>
