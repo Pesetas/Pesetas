@@ -2,28 +2,29 @@
 
 My name is Antonio and I'm currently 📚Studying Software Development at 42 Málaga and Computer Engineering at UNED.
 
-<p align="center"> <b> WHIT SKILLS IN </b> <br />
-<a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" alt="Bash logo" /></a>
-<a href="https://www.w3schools.com/c/"><img src="https://skillicons.dev/icons?i=c" alt="C logo" /></a>
-<a href="https://cmake.org/"><img src="https://skillicons.dev/icons?i=cmake" alt="CMake logo" /></a>
-<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python logo" /></a>
-<a href="https://www.vim.org/"><img src="https://skillicons.dev/icons?i=vim" alt="Vim logo" /></a>
-<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git logo" /></a>
-<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub logo" /></a>
-<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" alt="VSCode logo" /></a>
-</p>
-</p>
+### Habilidades Técnicas
+
+#### Lenguajes de Programación:
+- Bash
+- C
+- Python
+- Java
+
+#### Herramientas y Tecnologías:
+- CMake
+- Vim
+- Git
+- GitHub
+- Visual Studio Code
+
+
+
+### Cursos Completados
+
+- Programación con Java Standard, Fundación Telefónica
+- Introducción a la programación con Python 3, UNED   
 <p align="center"> <b> Stats at Codewars.com </b> <br />
 <p align="center"><img src="https://www.codewars.com/users/Pesetas/badges/large">
-
-<br>
-<br>
-
-<p align="center"> <b> COURSES COMPLETED </b> <br />
-Programación con Java Standard, from Fundación Telefónica <br /></p>
-<p align="center"> <a href="https://www.java.com/es/"><img src="https://skillicons.dev/icons?i=java" alt="Java-Dark" /></a></p>
-<p align="center"> Introducción a la programación con Python 3, from UNED <br /></p>
-<p align="center"> <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python logo" /></a></p>
 
 
 <!--
