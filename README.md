@@ -1,6 +1,6 @@
-### Hi there 👋
+### Muy buenas 👋
 
-My name is Antonio and I'm currently 📚Studying Software Development at 42 Málaga and Computer Engineering at UNED.
+Me llamo Antonio y actualmente estoy estudiando Desarrollo de Software en 42 Málaga y el Grado de Ingeniería Informática en la UNED.
 
 ### Habilidades Técnicas
 
