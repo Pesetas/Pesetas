@@ -19,10 +19,11 @@ Me llamo Antonio y actualmente estoy estudiando Desarrollo de Software en 42 Má
 
 
 
-### Cursos Completados
+### Cursos con Certificado de Finalización:
 
-- Programación con Java Standard, Fundación Telefónica
-- Introducción a la programación con Python 3, UNED   
+- Programación con Java Standard (Fundación Telefónica)
+- Introducción a la programación con Python 3 (UNED)
+- Introducción a la seguridad informática y ciberseguridad (UNED)
 <p align="center"> <b> Stats at Codewars.com </b> <br />
 <p align="center"><img src="https://www.codewars.com/users/Pesetas/badges/large">
 
