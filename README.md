@@ -13,10 +13,10 @@ Me llamo Antonio y actualmente estoy estudiando Desarrollo de Software en 42 Má
 #### Herramientas y Tecnologías:
 - CMake
 - Vim
-- Git
-- GitHub
+- Git & GitHub
 - Visual Studio Code
-
+- Linux
+- VirtualBox
 
 
 ### Cursos con Certificado de Finalización:
