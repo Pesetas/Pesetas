@@ -2,7 +2,7 @@
 
 Me llamo Antonio y actualmente estoy estudiando Desarrollo de Software en 42 Málaga y el Grado de Ingeniería Informática en la UNED.
 
-### Habilidades Técnicas
+### Competencias Técnicas en Desarrollo 
 
 #### Lenguajes de Programación:
 - Bash
